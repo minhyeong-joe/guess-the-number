@@ -1,0 +1,4 @@
+﻿  GuessTheNumber.cpp
+c:\users\billy\documents\visual studio 2015\projects\guessthenumber\guessthenumber\guessthenumber.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  guessthenumber.vcxproj -> C:\Users\billy\Documents\Visual Studio 2015\Projects\guessthenumber\Debug\guessthenumber.exe
+  guessthenumber.vcxproj -> C:\Users\billy\Documents\Visual Studio 2015\Projects\guessthenumber\Debug\guessthenumber.pdb (Full PDB)

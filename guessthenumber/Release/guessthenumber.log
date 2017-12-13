@@ -1,0 +1,7 @@
+﻿  GuessTheNumber.cpp
+GuessTheNumber.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  guessthenumber.vcxproj -> C:\Users\billy\Documents\Visual Studio 2015\Projects\guessthenumber\Release\guessthenumber.exe
+  guessthenumber.vcxproj -> C:\Users\billy\Documents\Visual Studio 2015\Projects\guessthenumber\Release\guessthenumber.pdb (Full PDB)
